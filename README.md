@@ -1,52 +1,60 @@
-<div align="center">
-  
-# Hi there 👋
-My name is **DELILLE Elone** and I'm a future **Software Engineer**.<br>
-I'm involved in everything **except** CSS.
+### 🇫🇷 Bonjour! I'm {Elone}
 
-### Applications I use
-![Visual Studio Code](https://github.com/HiNett/hinett/assets/147847949/06c256ac-532c-4e25-87e4-96884faed61f)
-![Atom by GitHub](https://github.com/HiNett/hinett/assets/147847949/e034618c-0545-495f-b5c2-67896fac0608)
-![IntelliJ IDEA Ultimate](https://github.com/HiNett/hinett/assets/147847949/f2bbb54f-9b48-4a2b-8f3c-8cea2d85973c)
-![Figma](https://github.com/HiNett/hinett/assets/147847949/9b1184f6-9b8e-4ef3-860a-cac248feeded)
+<p align="left"><br>🌱 "Grass? That's not my field." Instead, I delve into the rich soil of code. As a purely French software engineer, I bring a zest of finesse and precision to each line of code I write, all while navigating the digital expanse with a bilingual (French/English) toolkit.<br><br>👨‍💻 Raised on croissants and code, I thrive in challenging environments where I can apply my skills to solve intricate software puzzles. My engineering journey is fueled by a passion for developing elegant and efficient solutions, whether in my native French or fluent English.<br><br>🖥️ Specializing in Software Engineering, I approach each project with the meticulousness of a French artisan, ensuring that every detail is crafted to perfection. My arsenal includes a diverse set of technologies that I use to build robust software that stands the test of time.<br><br>🧩 Life outside of code? You might catch me exploring the local café scene, discussing the latest tech trends over a strong espresso, or diving into books that span from existential philosophy to the latest in machine learning.<br><br>🚀 My motto: "Code with passion, live with purpose." I’m continually sharpening my skills and expanding my horizons, eager to collaborate with fellow tech enthusiasts to innovate and streamline our digital future.<br><br>📫 Feel free to drop me a line in French or English at <a href="mailto:github-contact@elone.ovh?subject=Contact From Github">github-contact@elone.ovh</a>. Let’s talk tech, share a virtual coffee, or exchange ideas!<br><br>🔗 Visit my <a href="https://elone.ovh">Portfolio</a> to see my professional journey and follow my GitHub for updates on my latest projects and adventures in coding.</p>
 
-### Programming language I use
-![HTML 5](https://github.com/HiNett/hinett/assets/147847949/6a7c7959-e60f-4ab4-acb4-83f41c4dcb4a)
-![PHP](https://github.com/HiNett/hinett/assets/147847949/f32bf8a1-b276-41ce-98a8-43777f73df7e)
-![JavaScript](https://github.com/HiNett/hinett/assets/147847949/8639805b-4ee0-4264-9ea4-58810048a2b5)
-![x64](https://github.com/HiNett/hinett/assets/147847949/aa3141d5-97e6-4386-876d-29d583f58fd4)
-![x86](https://github.com/HiNett/hinett/assets/147847949/86a52346-6d9d-4777-ab7b-814f50b639f0)
-![Java](https://github.com/HiNett/hinett/assets/147847949/a5b7840f-38ea-4695-a938-41c4dd335a34)
-![C Language](https://github.com/HiNett/hinett/assets/147847949/a50981a4-68eb-43b1-8577-12317243aa88)
-![Python](https://github.com/HiNett/hinett/assets/147847949/e93a9546-6e4c-4b48-90f2-3eb202b1288f)
-![SQL](https://github.com/HiNett/hinett/assets/147847949/6f6533f3-90f0-4fc8-95f5-c51a33613242)
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="32px" viewBox="0 0 28 31" version="1.1">
-<defs>
-<clipPath id="clip1">
-  <path d="M 1.675781 1.628906 L 26.460938 1.628906 L 26.460938 29.144531 L 1.675781 29.144531 Z M 1.675781 1.628906 "/>
-</clipPath>
-<clipPath id="clip2">
-  <path d="M 13.597656 1.863281 L 2.132812 8.300781 C 1.894531 8.433594 1.699219 8.761719 1.699219 9.03125 L 1.699219 21.902344 C 1.699219 22.171875 1.894531 22.5 2.132812 22.632812 L 13.597656 29.070312 C 13.839844 29.203125 14.226562 29.203125 14.464844 29.070312 L 25.933594 22.632812 C 26.171875 22.5 26.363281 22.171875 26.363281 21.902344 L 26.363281 9.03125 C 26.363281 8.761719 26.171875 8.433594 25.933594 8.300781 L 14.464844 1.863281 C 14.226562 1.730469 13.839844 1.730469 13.597656 1.863281 Z M 13.597656 1.863281 "/>
-</clipPath>
-</defs>
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,20.784314%,40%);fill-opacity:1;" d="M 13.597656 1.863281 L 2.132812 8.300781 C 1.894531 8.433594 1.699219 8.761719 1.699219 9.03125 L 1.699219 21.902344 C 1.699219 22.171875 1.894531 22.5 2.132812 22.632812 L 13.597656 29.070312 C 13.839844 29.203125 14.226562 29.203125 14.464844 29.070312 L 25.933594 22.632812 C 26.171875 22.5 26.363281 22.171875 26.363281 21.902344 L 26.363281 9.03125 C 26.363281 8.761719 26.171875 8.433594 25.933594 8.300781 L 14.464844 1.863281 C 14.226562 1.730469 13.839844 1.730469 13.597656 1.863281 Z M 13.597656 1.863281 "/>
-<g clip-path="url(#clip1)" clip-rule="nonzero">
-<g clip-path="url(#clip2)" clip-rule="nonzero">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(22.745098%,43.137255%,64.705882%);fill-opacity:1;" d="M -9.265625 1.871094 L 37.328125 29.0625 C 37.566406 29.199219 37.757812 29.09375 37.757812 28.828125 L 37.757812 2.109375 C 37.757812 1.839844 37.535156 1.621094 37.257812 1.621094 L -9.195312 1.621094 C -9.46875 1.621094 -9.695312 1.402344 -9.695312 1.132812 C -9.695312 1.402344 -9.503906 1.734375 -9.265625 1.871094 Z M -9.265625 1.871094 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,30.588235%,59.607843%);fill-opacity:1;" d="M 37.328125 1.871094 L -9.265625 29.0625 C -9.503906 29.199219 -9.695312 29.09375 -9.695312 28.828125 L -9.695312 2.109375 C -9.695312 1.839844 -9.46875 1.621094 -9.195312 1.621094 L 37.257812 1.621094 C 37.535156 1.621094 37.757812 1.402344 37.757812 1.132812 C 37.757812 1.402344 37.566406 1.734375 37.328125 1.871094 Z M 37.328125 1.871094 "/>
-</g>
-</g>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 6.34375 19.347656 C 5.785156 19.347656 5.261719 19.242188 4.78125 19.035156 C 4.300781 18.828125 3.914062 18.519531 3.621094 18.109375 C 3.328125 17.699219 3.179688 17.1875 3.179688 16.582031 C 3.179688 16.53125 3.183594 16.480469 3.1875 16.429688 C 3.191406 16.375 3.195312 16.332031 3.195312 16.296875 L 4.96875 16.296875 C 4.96875 16.304688 4.96875 16.335938 4.960938 16.382812 C 4.957031 16.429688 4.953125 16.472656 4.953125 16.503906 C 4.953125 16.929688 5.082031 17.269531 5.34375 17.53125 C 5.601562 17.789062 5.960938 17.917969 6.425781 17.917969 C 6.941406 17.917969 7.300781 17.808594 7.503906 17.589844 C 7.707031 17.367188 7.8125 17.128906 7.8125 16.867188 C 7.8125 16.566406 7.730469 16.324219 7.570312 16.140625 C 7.410156 15.960938 7.199219 15.8125 6.9375 15.695312 C 6.675781 15.578125 6.386719 15.472656 6.070312 15.375 C 5.753906 15.28125 5.433594 15.171875 5.113281 15.050781 C 4.796875 14.929688 4.503906 14.773438 4.242188 14.578125 C 3.980469 14.382812 3.765625 14.132812 3.605469 13.820312 C 3.445312 13.507812 3.367188 13.109375 3.367188 12.625 C 3.367188 12.0625 3.507812 11.597656 3.792969 11.230469 C 4.078125 10.863281 4.457031 10.589844 4.921875 10.40625 C 5.390625 10.226562 5.894531 10.136719 6.4375 10.136719 C 6.972656 10.136719 7.460938 10.226562 7.910156 10.40625 C 8.363281 10.589844 8.722656 10.871094 8.992188 11.257812 C 9.265625 11.640625 9.402344 12.140625 9.402344 12.753906 L 9.402344 12.910156 L 7.652344 12.910156 L 7.652344 12.792969 C 7.652344 12.414062 7.542969 12.113281 7.324219 11.894531 C 7.105469 11.671875 6.800781 11.5625 6.410156 11.5625 C 6 11.5625 5.683594 11.652344 5.460938 11.828125 C 5.242188 12.007812 5.128906 12.234375 5.128906 12.507812 C 5.128906 12.769531 5.210938 12.976562 5.367188 13.132812 C 5.527344 13.289062 5.738281 13.417969 6 13.519531 C 6.265625 13.625 6.558594 13.722656 6.878906 13.8125 C 7.199219 13.902344 7.515625 14.007812 7.832031 14.132812 C 8.148438 14.253906 8.4375 14.410156 8.699219 14.605469 C 8.960938 14.800781 9.171875 15.050781 9.332031 15.359375 C 9.492188 15.664062 9.574219 16.050781 9.574219 16.519531 C 9.574219 17.203125 9.433594 17.75 9.160156 18.160156 C 8.882812 18.570312 8.503906 18.871094 8.019531 19.0625 C 7.535156 19.25 6.976562 19.347656 6.34375 19.347656 Z M 6.34375 19.347656 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 15.820312 20.800781 L 14.5 19.347656 L 14.339844 19.347656 C 13.15625 19.347656 12.226562 18.972656 11.550781 18.21875 C 10.871094 17.464844 10.535156 16.304688 10.535156 14.738281 C 10.535156 13.167969 10.871094 12.003906 11.550781 11.257812 C 12.226562 10.507812 13.15625 10.136719 14.339844 10.136719 C 15.523438 10.136719 16.453125 10.507812 17.128906 11.257812 C 17.804688 12.003906 18.144531 13.167969 18.144531 14.738281 C 18.144531 15.855469 17.96875 16.761719 17.621094 17.460938 C 17.273438 18.15625 16.785156 18.660156 16.15625 18.96875 L 17.914062 20.800781 Z M 14.339844 17.917969 C 15.023438 17.917969 15.535156 17.667969 15.875 17.160156 C 16.210938 16.65625 16.382812 15.957031 16.382812 15.066406 L 16.382812 14.417969 C 16.382812 13.523438 16.210938 12.824219 15.875 12.320312 C 15.535156 11.816406 15.023438 11.5625 14.339844 11.5625 C 13.664062 11.5625 13.152344 11.816406 12.808594 12.320312 C 12.46875 12.824219 12.296875 13.523438 12.296875 14.417969 L 12.296875 15.066406 C 12.296875 15.957031 12.46875 16.65625 12.808594 17.160156 C 13.152344 17.667969 13.664062 17.917969 14.339844 17.917969 Z M 14.339844 17.917969 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 19.398438 19.191406 L 19.398438 10.289062 L 21.105469 10.289062 L 21.105469 17.632812 L 24.976562 17.632812 L 24.976562 19.191406 Z M 19.398438 19.191406 "/>
-</g>
-</svg>
+###
 
-### Contact Me
-
-You can contact me directly from my [LinkedIn page](https://www.linkedin.com/in/elonedelille), or via Discord : @hinett<br>
-![HiNett](https://github-readme-stats.vercel.app/api?username=hinett)<br>
-![ProfilCounter](https://komarev.com/ghpvc/?username=HiNett&style=for-the-badge&color=brightgreen)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HiNett&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HiNett&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/HiNett/count.svg?"  />
+</div>
+
+###
